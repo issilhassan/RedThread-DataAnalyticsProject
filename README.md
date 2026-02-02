@@ -24,7 +24,7 @@ Ce projet vise à exploiter des jeux de données réels liés à la fidélisatio
 - **Langages** : Python, SQL
 - **Bibliothèques** : Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **BI** : Tableau
-- **Base de données** : PostgreSQL (optionnel)
+- **Base de données** : PostgreSQL
 - **Versioning** : Git/GitHub
 
 ## 📅 Planning Prévisionnel
